@@ -1,7 +1,7 @@
 {
   "name": "share-point-uploader",
-  "version": "2.1",
-  "description": "SharePoint Uploader",
+  "version": "2.3",
+  "description": "X SharePoint Uploader",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
