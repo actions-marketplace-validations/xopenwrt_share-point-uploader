@@ -1,4 +1,4 @@
-name: SharePoint uploader
+name: X SharePoint uploader
 description: GitHub action to upload a file to SharePoint
 author: Krzysztof Hamerski
 branding:
